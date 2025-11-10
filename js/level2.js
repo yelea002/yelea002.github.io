@@ -125,5 +125,5 @@ function startMiner() {
 starImg.addEventListener("click", clickStar);
 
 nextLevelBtn.addEventListener("click", () => {
-  window.location.href = "index1 copy.html";
+  window.location.href = "../html/level3.html";
 });

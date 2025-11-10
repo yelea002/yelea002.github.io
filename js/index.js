@@ -135,5 +135,5 @@ starImg.addEventListener("click", clickStar);
 
 // next lvl(index1.html)
 nextLevelBtn.addEventListener("click", () => {
-  window.location.href = "index1.html";
+  window.location.href = "../html/level2.html";
 });
